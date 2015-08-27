@@ -1,2 +1,1 @@
-# Stylo
-Stylus linter
+
