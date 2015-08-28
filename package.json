@@ -18,6 +18,16 @@
   },
   "homepage": "https://github.com/lellimecnar/stylus-lint#readme",
   "dependencies": {
+    "merge": "^1.2.0",
     "stylus": "^0.52.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-rename": "^1.2.2",
+    "vinyl": "^0.5.1"
   }
 }
